@@ -3,8 +3,10 @@ I'm Wilson and I'm a developer specializing in front end development, specifical
 
 - 🔭 I’m currently working as a community developer at [Send Chinatown Love](http://sendchinatownlove.com/)
 - 🔍 I'm actively looking for a full time front end developer position! 
-- 📫 LinkedIn: https://www.linkedin.com/in/wilsonj806/
 - 😄 Pronouns: He/His
+#### Socials/ Job Links
+- [📫 LinkedIn Profile](https://www.linkedin.com/in/wilsonj806/)
+- [📝 Resume Link](https://www.dropbox.com/s/kol2kp0do40ggza/Wilson%20Jiang%20-%20Resume.pdf?dl=0&raw=true)
 <!--
 **wilsonj806/wilsonj806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
