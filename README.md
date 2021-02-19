@@ -2,7 +2,6 @@
 I'm Wilson and I'm a developer specializing in front end development, specifically in the React.js ecosystem. I also dabble in backend dev, dev ops, and some infrastructure type things as well, but front end is where I'm most comfortable! 
 
 - 🔭 I’m currently working as a community developer at [Send Chinatown Love](http://sendchinatownlove.com/)
-- 🔍 I'm actively looking for a full time front end developer position! 
 - 😄 Pronouns: He/His
 #### Socials/ Job Links
 - [📫 LinkedIn Profile](https://www.linkedin.com/in/wilsonj806/)
