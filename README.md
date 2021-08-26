@@ -5,7 +5,6 @@ I'm Wilson and I'm a developer specializing in front end development, specifical
 - 😄 Pronouns: He/His
 #### Socials/ Job Links
 - [📫 LinkedIn Profile](https://www.linkedin.com/in/wilsonj806/)
-- [📝 Resume Link](https://www.dropbox.com/s/kol2kp0do40ggza/Wilson%20Jiang%20-%20Resume.pdf?dl=0&raw=true)
 <!--
 **wilsonj806/wilsonj806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
